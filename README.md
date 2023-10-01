@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lmkwd123
 - 👀 I’m interested in sport，history and cartoon
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python,linux,java and something
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
